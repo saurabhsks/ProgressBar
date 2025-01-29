@@ -30,7 +30,7 @@ function App() {
                       overflow:"hidden",
                       margin: "0 auto",
                       position: "relative"}}
-       >
+                                          >
       <div            
                       style={{
                         width:`${progress}%`,
